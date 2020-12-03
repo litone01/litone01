@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 I am a second year Computer Science student from the National University of Singapore. 
-- 🔭 I’m currently working on [Anki Flashcard Builder] (https://github.com/weehan299/PythonDeckBuilder)
-- 📫 How to reach me: via [email] (mailto:jiaxiang_yu@u.nus.edu)
+- 🔭 I’m currently working on [Anki Flashcard Builder](https://github.com/weehan299/PythonDeckBuilder)
+- 📫 How to reach me: via [email](mailto:jiaxiang_yu@u.nus.edu)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=litone01)](https://github.com/anuraghazra/github-readme-stats)
