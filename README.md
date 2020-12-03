@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 I am an undergraduate Computer Science student from the National University of Singapore. 
+- 😄 I am a second year Computer Science student from the National University of Singapore. 
 - 🔭 I’m currently working on [Anki Flashcard Builder] (https://github.com/weehan299/PythonDeckBuilder)
 - 📫 How to reach me: via [email] (mailto:jiaxiang_yu@u.nus.edu)
 
