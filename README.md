@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-[![Jiaxiang's github stats](https://github-readme-stats.vercel.app/api?username=litone01&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jiaxiang's github stats](https://github-readme-stats.vercel.app/api?username=litone01&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
   
 </div>
@@ -38,5 +38,5 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Linux" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Linux" width="40"/>
