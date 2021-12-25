@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 I am a second year Computer Science student from the National University of Singapore. 
-- 🔭 I’m currently working on [Mr. Duke](https://github.com/litone01/ip)
+- 😄 I am a third year Computer Science student from the National University of Singapore. 
 - 📫 How to reach me: via [email](mailto:jiaxiang_yu@u.nus.edu)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=litone01)](https://github.com/anuraghazra/github-readme-stats)
+[![Jiaxiang's github stats](https://github-readme-stats.vercel.app/api?username=litone01&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litone01&langs_count=10&layout=compact](https://github.com/anuraghazra/github-readme-stats)
