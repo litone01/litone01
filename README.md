@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 I am a third year Computer Science student from the National University of Singapore. 
+- 🔭 Currently interning at ByteDance, building the next generation enterprise relational OLAP [ByteHouse](https://bytehouse.cloud/) 
 - 📫 How to reach me: via [email](mailto:jiaxiang_yu@u.nus.edu)
 
 
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
 ## Languages and Tools:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>
