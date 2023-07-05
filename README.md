@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 - 🔭 Ex-intern at ByteDance, building the enterprise relational OLAP [ByteHouse Enterprise](https://bytehouse.cloud/product/bytehouse-enterprise) 
 - 📫 How to reach me: via [email](mailto:jiaxiang_yu@u.nus.edu)
 
-
-<div align="center">
-  
-[![Jiaxiang's github stats](https://github-readme-stats.vercel.app/api?username=litone01&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-</div>
-
 ## Languages and Tools:
 
 <p align="center">
