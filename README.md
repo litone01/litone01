@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 I am a final year Computer Science student from the National University of Singapore. 
+- 😄 I am a ~~final year~~ _recently graduated_ Computer Science student from the National University of Singapore (NUS).
 - 🔭 Ex-intern at ByteDance, building the enterprise relational OLAP [ByteHouse Enterprise](https://bytehouse.cloud/product/bytehouse-enterprise) 
 - 📫 How to reach me: via [email](mailto:jiaxiang_yu@u.nus.edu)
 
