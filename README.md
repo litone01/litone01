@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 I am a ~~final year~~ _recently graduated_ Computer Science student from the National University of Singapore (NUS).
-- 🔭 Ex-intern at ByteDance, contributed to the enterprise relational OLAP [ByteHouse Enterprise](https://bytehouse.cloud/product/bytehouse-enterprise) 
 - 📫 How to reach me: via [email](mailto:jiaxiang_yu@u.nus.edu)
 
 ## Languages and Tools:
